@@ -2,11 +2,13 @@
 
 Real-time sign language word recognition using MediaPipe hand landmarks and a Bidirectional LSTM model, trained on the MS-ASL dataset.
 
-## Recognised words (25)
+## Recognised words (21)
 
-hello, thank you, please, sorry, yes, no, help, water, food, more,
-stop, go, come, good, bad, want, like, love, know, understand,
-name, where, what, how, again
+hello,      please,     sorry,      yes,        no,
+help,       water,      more,       go,         good,
+bad,        want,       like,       love,       know,
+understand, name,       where,      what,       how,
+again
 
 ---
 
